@@ -1,0 +1,3 @@
+[toolchain]
+# Always build with the latest stable Rust toolchain.
+channel = "stable"
